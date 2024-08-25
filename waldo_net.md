@@ -16,7 +16,8 @@ Y=Yes
 N=No
 
 **Basic Weather information for the day:**   
-<u>Conditions</u>
+++Conditions++
+
 1= Sunny  
 2= Partly Cloudy  
 3= Cloudy  
