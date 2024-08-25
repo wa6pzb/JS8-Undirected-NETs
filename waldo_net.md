@@ -39,7 +39,7 @@ A= Severe weather
 **Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.   
 NOTE: If on your first round dice rolls the sum of your three rolls is greater than 13 you are WALDO and need to put the word WALDO in your comment.
 
-By using this **Simple FORM** (F!10A) we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This form format is still human readable/encodabble and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
+By using this **Simple FORM** (F!10A) we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This form format is still human readable/encodabble and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
 
 Below is a message sent to the group @NET as an inbox message.
 
