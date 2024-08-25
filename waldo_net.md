@@ -6,10 +6,10 @@ The first round of the NET is used to send a basic Check-In with some current in
 
 The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the following information:
 
->> **Status:** Green, Yellow, Red  
->> G=Green  
->> Y=Yellow  
->> R=Red
+> **Status:** Green, Yellow, Red  
+> G=Green  
+> Y=Yellow  
+> R=Red
 
 **Availability for a QSO after the NET:**  Yes, No  
 Y=Yes  
