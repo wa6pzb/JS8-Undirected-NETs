@@ -4,7 +4,7 @@ The WALDO NET uses the undirected method for a weekly JS8 Net. The goal of this 
 
 The first round of the NET is used to send a basic Check-In with some current information and a short comment to all participants.
 
-The basic Check-In round uses a pre-agreed **from** message to encode the following information:
+The basic Check-In round uses a pre-agreed **From** message to encode the following information:
 
 **Status:** Green, Yellow, Red  
 G=Green  
@@ -39,7 +39,7 @@ A= Severe weather
 **Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.   
 NOTE: If on your first round dice rolls the sum of your three rolls is greater than 13 you are WALDO and need to put the word WALDO in your comment.
 
-By using this âformâ (F\!104) we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This format is still human readable and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
+By using this **From** (F!104) we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This format is still human readable and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
 
 Below is a message sent to the group @NET as an inbox message.
 
