@@ -18,12 +18,12 @@ N=No
 **Basic Weather information for the day:**   
 <u>Conditions</u>
 1= Sunny  
-2 \=Partly Cloudy  
+2= Partly Cloudy  
 3= Cloudy  
 4= Light Rain  
 5= Moderate Rain  
 6= Heavy Rain  
-7=Snow  
+7= Snow  
 8= Sleet or Ice  
 9= Thunderstorms  
 A= Severe weather   
