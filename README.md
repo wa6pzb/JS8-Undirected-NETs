@@ -7,7 +7,7 @@ To remove the need of a Net Control Station (NCS) and to create an undirected NE
 APRS uses the concept of a “net cycle time”. This is the time within
 which a user should be able to hear (at least once) all stations
 within range, to obtain a more or less complete picture of activity.
-The net cycle time will vary according to local conditions. This is way we are trying achieve withe the random transmit time slots.
+The net cycle time will vary according to local conditions. This is what we are trying achieve withe the random transmit time slots.
 
 
 The first 6 time slots are the check-in period and the last 6 slots are the conclusion round.  
