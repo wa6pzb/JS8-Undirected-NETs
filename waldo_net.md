@@ -34,7 +34,8 @@ A= Severe weather
 4= 55F \- 75F  
 5= 75F \- 85F  
 6= 85F \- 95F  
-7= Above 95F  
+7= Above 95F
+
 **Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.   
 NOTE: If on your first round dice rolls the sum of your three rolls is greater than 13 you are WALDO and need to put the word WALDO in your comment.
 
