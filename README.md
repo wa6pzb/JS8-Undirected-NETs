@@ -5,7 +5,7 @@ The JS8Call application has the ability to decode multiple stations at the same 
 To remove the need of a Net Control Station (NCS) and to create an undirected NET, we establish a NET with a duration of say 60 minutes, and divide it into 2 parts (rounds), each with 6 time slots for a total of 12 (See Time offset Table below). Each time slot is 5 minutes long. Participants of the NET transmit on random time slots. These transmit time slots are determined by random (e.g. dice rolls) before the NET begins.
 
 The first 6 time slots are the check-in period and the last 6 slots are the conclusion round.  
-This method can be adjusted for various kinds of NETs and this two round system is used in the WALDO NET described later.
+This method can be adjusted for various kinds of NETs and this two round system is used in the [Waldo NET](./waldo_net.md).
 
 Participants of the NET, will transmit 3 times within the first 6 time slots (round 1\) and another 3 times within the last 6 time slots (round 2). Thus transmitting half the time and receiving the other half. Dice are used to get three unique (non-repeating) numbers for the first round of time slots, and three more for the final round. This random assignment of time slots is what removes the need for a NCS.
 
@@ -32,4 +32,4 @@ In addition to the time-slots, each participant uses a different frequency offse
 | 1500-1950 Hz | H,I,J,K,L,M,N,O |
 | 2000-2450 Hz | P,Q,R,S,T,U,V,W,X,Y,Z |
 
-[Waldo NET](./waldo_net.md)
+
