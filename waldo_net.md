@@ -1,15 +1,15 @@
 # **The WALDO NET**
 
-The WALDO NET uses the undirected method for a weekly JS8 Net. The goal of this NET is to have fun, check-in, and find WALDO. The benefits, to name a few, are getting on the air, exercising your gear, and increasing your JS8 skills that could help in general operation and emergency communication scenarios.
+The WALDO NET uses the undirected method described for a weekly JS8 Net. The goal of this NET is to have fun, check-in, and find WALDO. The benefits, to name a few, are getting on the air, exercising your gear, and increasing your JS8 skills that could help in general operation and emergency communication scenarios.
 
 The first round of the NET is used to send a basic Check-In with some current information and a short comment to all participants.
 
 The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the following information:
 
-**Status:** Green, Yellow, Red  
-G=Green  
-Y=Yellow  
-R=Red
+>> **Status:** Green, Yellow, Red  
+>> G=Green  
+>> Y=Yellow  
+>> R=Red
 
 **Availability for a QSO after the NET:**  Yes, No  
 Y=Yes  
