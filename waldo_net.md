@@ -15,10 +15,10 @@ The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the
 > Y=Yes  
 > N=No
 
-**Basic Weather information for the day:**   
-### Conditions
-1= Sunny  
-2= Partly Cloudy  
+> **Basic Weather information for the day:**   
+> ### Conditions
+> 1= Sunny  
+> 2= Partly Cloudy  
 3= Cloudy  
 4= Light Rain  
 5= Moderate Rain  
