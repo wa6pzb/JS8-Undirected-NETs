@@ -32,4 +32,4 @@ In addition to the time-slots, each participant uses a different frequency offse
 | 1500-1950 Hz | H,I,J,K,L,M,N,O |
 | 2000-2450 Hz | P,Q,R,S,T,U,V,W,X,Y,Z |
 
-[Waldo NET](./wakdo_net.md)
+[Waldo NET](./waldo_net.md)
