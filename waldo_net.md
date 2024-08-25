@@ -49,7 +49,7 @@ This message says you are using form F!10A, you have an overall Green status (me
 
 If you are WALDO it would be the same except for the comment and would just include WALDO.
 
-``` NET MSG F!10A GY17 WALDO ```
+``` @NET MSG F!10A GY17 WALDO ```
 
 In the last round or the conclusion round, we will use another **Simple FORM** (F!10B) to indicate if we found a WALDO and how many stations were heard (a number), and the comment will be the call sign of WALDO. If there were more than one WALDO, just report the first one you heard. It is possible to have more than one WALDO and no WALDO at all. You can also include in the comment a short salutation.
 
