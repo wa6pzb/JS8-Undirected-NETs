@@ -49,19 +49,19 @@ This message says you are using form F!10A, you have an overall Green status (me
 
 If you are WALDO it would be the same except for the comment and would just include WALDO.
 
-NET MSG F\!104 GY17 WALDO
+``` NET MSG F!10A GY17 WALDO ```
 
-In the last round or the conclusion round, everyone will simply send a message indicating how many stations they copied (a number), and the call sign of WALDO. If there were more than one WALDO, just report the first one you copied. It is possible to have more than one WALDO and no WALDO at all, if you copied no WALDO, then just send NWF (No WALDO Found).
+In the last round or the conclusion round, we will use another **Simple FORM** (F!10B) to indicate if we found a WALDO and how many stations were heard (a number), and the comment will be the call sign of WALDO. If there were more than one WALDO, just report the first one you heard. It is possible to have more than one WALDO and no WALDO at all. You can also include in the comment a short salutation.
 
 Below is a message sent to the group @NET as an inbox message.
 
-**@NET MSG 3 NWF**
+``` @NET MSG F!10B N3 GOOD CONDITIONS 73 ```
 
-This message says you copied 3 other stations during the NET and No WALDO Found.
+This message says you did not hear a WALDO, copied 3 stations during the NET, commented there were good conditions, and 73.
 
 If WALDO was found, then the message would be the following.
 
-**@NET MSG 3 K7ACF**
+``` @NET MSG F!10B Y3 K7ACF GOOD CONDITIONS 73 ```
 
 This message says you copied 3 other stations during the NET and the first WALDO found was K7ACF.
 
