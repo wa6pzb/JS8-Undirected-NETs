@@ -49,7 +49,7 @@ This message says you are using form F\!104, you have an overall Green status (m
 
 If you are WALDO it would be the same except for the comment and would just include WALDO.
 
-**@NET MSG F\!104 GY17 WALDO**
+''' NET MSG F\!104 GY17 WALDO '''
 
 In the last round or the conclusion round, everyone will simply send a message indicating how many stations they copied (a number), and the call sign of WALDO. If there were more than one WALDO, just report the first one you copied. It is possible to have more than one WALDO and no WALDO at all, if you copied no WALDO, then just send NWF (No WALDO Found).
 
