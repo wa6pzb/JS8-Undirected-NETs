@@ -8,7 +8,7 @@ APRS uses the concept of a “net cycle time”. This is the time within
 which a user should be able to hear (at least once) all stations
 within range, to obtain a more or less complete picture of activity.
 The net cycle time can vary, and we are using two 30 minute cycle times. The random transmit time slots will allow everyone to be heard at least once dependant on the number of stations participating.
-Using JS8's Normal transmit speed which has a 15 second frame time. If we keep the message to 4 frames (1 minute) and consider that we have about 25 offset frequencies. That would be 25 messages per minute maximum or full saturation. If we only use a third of this capacity, this method should support small NETs of 8-10 stations. If more station capacity is needed, the cycle time would need to be increased (e.g. two rounds of 60 minutes instead of 30 minutes).
+Using JS8's Normal transmit speed which has a 15 second frame time. If we keep the message to 4 frames (1 minute) and consider that we have about 25 offset frequencies. That would be 25 messages per minute maximum or full saturation. If we only use a third of this capacity, this method should support small NETs of 8-10 stations. If more station capacity is needed, the cycle time would need to be increased (e.g. two rounds of 60 minutes instead of 30 minutes). By using semi-automatic operation with the use of scripts leveraging the JS8Call API the rounds could be extended to hours along with larger slot times creating a much larger net cycle time, this could accommodatw 100's of stations. 
 
 
 The first 6 time slots are the check-in period and the last 6 slots are the conclusion round.  
