@@ -17,6 +17,7 @@ N=No
 
 **Basic Weather information for the day:**   
 __Conditions__
+
 1= Sunny  
 2 \=Partly Cloudy  
 3= Cloudy  
