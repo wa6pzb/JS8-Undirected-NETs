@@ -19,25 +19,26 @@ The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the
 > ### Conditions
 > 1= Sunny  
 > 2= Partly Cloudy  
-3= Cloudy  
-4= Light Rain  
-5= Moderate Rain  
-6= Heavy Rain  
-7= Snow  
-8= Sleet or Ice  
-9= Thunderstorms  
-A= Severe weather   
-### Temperature ranges  
-1= Below 0F  
-2= 0F \- 32F  
-3= 32F \- 55F  
-4= 55F \- 75F  
-5= 75F \- 85F  
-6= 85F \- 95F  
-7= Above 95F
+> 3= Cloudy  
+> 4= Light Rain  
+> 5= Moderate Rain  
+> 6= Heavy Rain  
+> 7= Snow  
+> 8= Sleet or Ice  
+> 9= Thunderstorms  
+> A= Severe weather   
+> ### Temperature ranges  
+> 1= Below 0F  
+> 2= 0F \- 32F  
+> 3= 32F \- 55F  
+> 4= 55F \- 75F  
+> 5= 75F \- 85F  
+> 6= 85F \- 95F  
+> 7= Above 95F
 
-**Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.   
-NOTE: If on your first round dice rolls the sum of your three rolls is greater than 13 you are WALDO and need to put the word WALDO in your comment.
+> **Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.   
+> [!NOTE]
+> If on your first round dice rolls the sum of your three rolls is greater than 13 you are WALDO and need to put the word WALDO in your comment.
 
 By using this **Simple FORM** (F!10A) we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This form format is still human readable/encodabble and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
 
