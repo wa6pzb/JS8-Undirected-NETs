@@ -15,7 +15,7 @@ This method can be adjusted for various kinds of NETs and this two round system 
 
 Participants of the NET, will transmit 3 times within the first 6 time slots (round 1\) and another 3 times within the last 6 time slots (round 2). Thus transmitting half the time and receiving the other half. Dice can be used to get three random and unique (non-repeating) numbers for the first round of time slots, and three more for the final round. This random assignment of time slots is what removes the need for a NCS.
 
-In addition to the time-slots, each participant uses a different frequency offsets so all the stations are spread out within the passband to reduce collisions with other stations. The rough offset is determined by the last letter of your call sign and should be adjusted as needed within that range based on other stations. Participants should send/receive group SNR? requests, 5-10 minutes before the NET begins to get a feel for the other stations' offsets.
+In addition to the time-slots, each participant uses a different frequency offset so all the stations are spread out within the passband to reduce collisions with other stations. The rough offset is determined by the last letter of your call sign and should be adjusted as needed within that range based on other stations. Participants should send/receive group SNR? requests, 5-10 minutes before the NET begins to get a feel for the other stations' offsets.
 
 | Time offset | Slot Number | Round |
 | :---: | :---: | :---: |
