@@ -4,7 +4,7 @@ The WALDO NET uses the above method for a weekly JS8 Net. The goal of this NET i
 
 The first round of the NET is used to send a basic Check-In with some current information and a short comment to all participants.
 
-The basic Check-In round uses a pre-agreed message to encode the following information:
+The basic Check-In round uses a pre-agreed **from** message to encode the following information:
 
 **Status:** Green, Yellow, Red  
 G=Green  
