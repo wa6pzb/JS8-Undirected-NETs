@@ -4,6 +4,13 @@ The JS8Call application has the ability to decode multiple stations at the same 
 
 To remove the need of a Net Control Station (NCS) and to create an undirected NET, we establish a NET with a duration of say 60 minutes, and divide it into 2 parts (rounds), each with 6 time slots for a total of 12 (See Time offset Table below). Each time slot is 5 minutes long. Participants of the NET transmit on random time slots. These transmit time slots are determined by a random number generator (e.g. dice rolls) before the NET begins.
 
+APRS uses the concept of a “net cycle time”. This is the time within
+which a user should be able to hear (at least once) all stations
+within range, to obtain a more or less complete picture of activity.
+The net cycle time will vary according to local conditions and with the
+number of digipeaters through which APRS data travels
+
+
 The first 6 time slots are the check-in period and the last 6 slots are the conclusion round.  
 This method can be adjusted for various kinds of NETs and this two round system is used in the [Waldo NET](./waldo_net.md).
 
