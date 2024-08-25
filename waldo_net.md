@@ -85,6 +85,6 @@ K7ACF  is in slots 4,5,6 offset 1000-1450 Hz
 W8ASK is in slots 1,4,5  offset 1500-1950 Hz  
 A5PIN is in slots 1,2,6 offset 1500-1950 Hz
 
-N6BB will transmit the check-in message at the top of the hour in slot 1\. The message will be sent twice, once at normal speed, and once at slow speed. Since it will be sent as an inbox message, allow at least one frame time after the message to receive any ACK messages. This is not required but provides some feedback. No ACK doesn't mean the other station didn't get the message, it just means you didnât get the ACK, this is why we transmit multiple times. These messages should use most, if not all of the 5 minute time slot. 
+N6BB will transmit the check-in message at the top of the hour in slot 1. The message will be sent twice, at normal speed. Since it will be sent as an inbox message, allow at least one frame time after the message to receive any ACK messages. This is not required, but provides some feedback. No ACK doesn't mean the other station didn't get the message, it just means you didn't get the ACK, this is why we transmit multiple times. These messages should not use up the full 5 minute time slot so you have some flexibility when you start, time to listen for ACK's, etc. With short comments the messages should only take about 1 minute to send. 
 
-This will continue for all 6 time slots, stations taking turns transmitting and receiving.  
+This will continue for all 6 time slots, with stations taking turns transmitting and receiving.  
