@@ -69,14 +69,14 @@ This message says you copied 3 other stations during the NET and the first WALDO
 
 A 4 station NET with call-signs N6BB, K7ACF, W8ASK, and A5PIN.
 
-**Step 1** \- Each station needs to roll dice to get their time slots numbers and find out if they are WALDO (if the sum of the first 3 numbers rolled is greater than 13). Below are the results of the rolls. N6BB rolled a 1,3,4 for the first round and 2,3,6 for the second. Remember, you need 3 unique non-repeating numbers for each round, if you roll a 1 then another 1, roll again until it is other than 1, etc. The sum of N6BBâs first round roll is 8 so he is not WALDO. Notice that K7ACF rolled a 4,5,6 and the sum is 15, so he is WALDO.
+**Step 1** - Each station needs to roll dice to get their time slots numbers and find out if they are WALDO (if the sum of the first 3 numbers rolled is greater than 13). Below are the results of the rolls. N6BB rolled a 1,3,4 for the first round and 2,3,6 for the second. Remember, you need 3 unique non-repeating numbers for each round, if you roll a 1 then another 1, roll again until it is other than 1, etc. The sum of N6BB first round roll is 8 so he is not WALDO. Notice that K7ACF rolled a 4,5,6 and the sum is 15, so he is WALDO.
 
-N6BB 		1,3,4 & 2,3,6 \- Total the numbers of the first numbers 1+3+4=8  
-K7ACF	4,5,6 & 2,4,5 \- Total the numbers of the first numbers 4+5+6=15  
-W8ASK	1,4,5 & 2,3,6 \- Total the numbers of the first numbers 1+4+5=10  
-A5PIN		1,2,6 & 1,3,5 \- Total the numbers of the first numbers 1+2+6=9
+N6BB 		1,3,4 & 2,3,6 - Total the numbers of the first numbers 1+3+4=8  
+K7ACF	  4,5,6 & 2,4,5 - Total the numbers of the first numbers 4+5+6=15  
+W8ASK	  1,4,5 & 2,3,6 - Total the numbers of the first numbers 1+4+5=10  
+A5PIN		1,2,6 & 1,3,5 - Total the numbers of the first numbers 1+2+6=9
 
-**Step 2** \- Each station needs to use the Frequency Offset table to set a rough offset.
+**Step 2** - Each station needs to use the Frequency Offset table to set a rough offset.
 
 Referring to the offset table and the dice rolls, here are the slots and offsets for the stations to use in round 1\.
 
