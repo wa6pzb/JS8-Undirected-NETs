@@ -43,7 +43,7 @@ By using this **From** (F!104) we can keep the message short. The forms can 
 
 Below is a message sent to the group @NET as an inbox message.
 
-**@NET MSG F\!104 GY17 HOT NIGHT**
+``` @NET MSG F!104 GY17 HOT NIGHT ```
 
 This message says you are using form F\!104, you have an overall Green status (meaning all is well), you are available for a QSO after the NET, and you are having/had a sunny day with temperatures over 95 degrees F with a comment of HOT NIGHT.
 
