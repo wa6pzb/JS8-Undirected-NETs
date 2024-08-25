@@ -16,8 +16,7 @@ Y=Yes
 N=No
 
 **Basic Weather information for the day:**   
-### Conditions
-
+#### Conditions
 1= Sunny  
 2= Partly Cloudy  
 3= Cloudy  
@@ -28,7 +27,7 @@ N=No
 8= Sleet or Ice  
 9= Thunderstorms  
 A= Severe weather   
-Temperature ranges  
+### Temperature ranges  
 1= Below 0F  
 2= 0F \- 32F  
 3= 32F \- 55F  
