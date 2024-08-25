@@ -13,7 +13,7 @@ R=Red
 
 **Availability for a QSO after the NET:**  Yes, No  
 Y=Yes  
-Y=No
+N=No
 
 **Basic Weather information for the day:**   
 Conditions  
