@@ -1,4 +1,4 @@
-# **An Undirected JS8 Radio NET**
+# **Undirected JS8 Radio NET**
 
 The JS8Call application has the ability to decode multiple stations at the same time. By using the Inbox message function with a group call, we can send information to multiple stations simultaneously and place the message in their Inbox.
 
