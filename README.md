@@ -1,6 +1,6 @@
 # **Undirected JS8 Radio NET**
 
-The JS8Call application has the ability to decode multiple stations at the same time. By using the Inbox message function with a group call, we can send information to multiple stations simultaneously and place the message in their Inbox.
+The JS8Call application has the ability to decode multiple stations at the same time. By using the Inbox message function with a call group, we can send information to multiple stations simultaneously and place the message in their Inbox.
 
 To remove the need of a Net Control Station (NCS) and to create an undirected NET, we establish a NET with a duration of say 60 minutes, and divide it into 2 parts (rounds), each with 6 time slots for a total of 12 (See Time offset Table below). Each time slot is 5 minutes long. Participants of the NET transmit on random time slots. These transmit time slots are determined by a random number generator (e.g. dice rolls) before the NET begins. The first 6 time slots are the check-in period and the last 6 slots are the conclusion round. 
 
