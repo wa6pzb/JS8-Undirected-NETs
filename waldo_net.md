@@ -43,7 +43,7 @@ The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the
 
 By using this **Simple FORM** (we  will call F!10A), we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This form format is still human readable/encodable and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
 
-Below is what the message string in JSCall sent to the call group @NET as an inbox message.
+Below is what the message string to JSCall will look like to the call group @NET as an inbox message.
 
 ``` @NET MSG F!10A GY17 HOT NIGHT ```
 
