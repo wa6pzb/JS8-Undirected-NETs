@@ -63,11 +63,12 @@ Below is a message sent to the call group @NET as an inbox message.
 > [!NOTE]
 > This message says you did not hear a WALDO, copied 3 stations during the NET, commented there were good conditions, and 73.
 
-If WALDO was found, then the message would be the following.
+If WALDO was found, then the message would be something like the following.
 
 ``` @NET MSG F!10B Y3 K7ACF GOOD CONDITIONS 73 ```
 
-This message says you copied 3 other stations during the NET and the first WALDO found was K7ACF.
+> [!NOTE]
+> This message says you copied 3 other stations during the NET and the first WALDO found was K7ACF.
 
 ## **Full Example**
 
