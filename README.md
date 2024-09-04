@@ -38,7 +38,7 @@ This method can be adjusted for various kinds of NETs and this two round system 
 | 1500-1950 Hz | H,I,J,K,L,M,N,O |
 | 2000-2450 Hz | P,Q,R,S,T,U,V,W,X,Y,Z |
 
-Short NET 
+Alternative 30 minute NET 
 
 | Time Offset | Time Slot | Round |
 | :---- | :---- | :---- |
