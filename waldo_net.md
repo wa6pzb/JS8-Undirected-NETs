@@ -39,7 +39,7 @@ The basic Check-In round uses a pre-agreed **Simple FORM** message to encode the
 > **Comment (very short) with free text:** ON BATTERY, PORTABLE, NEW ANT, etc.
  
 > [!NOTE]
-> If on your round 1 dice rolls the sum  of your three numbers is 14 or 15, you are WALDO and need to put the word WALDO in your comment.
+> On your round 1 dice rolls, if the the sum of your three numbers is 14 or 15, you are WALDO and need to put the word WALDO in your comment.
 
 By using this **Simple FORM A** (we will call F!10A), we can keep the message short. The forms can be published on the Internet so as to not make any attempt to obscure or encrypt the messages. This form format is still human readable/encodable and could also be used with other add-on tools or scripts for JS8call like JS8Spotter, but is not required. All you need is the JS8call application.
 
