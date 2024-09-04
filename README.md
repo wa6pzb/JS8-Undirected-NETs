@@ -40,7 +40,7 @@ This method can be adjusted for various kinds of NETs and this two round system 
 
 Alternative 30 minute NET 
 
-| Time Offset | Time Slot | Round |
+| Time offset | Time Slot | Round |
 | :---- | :---- | :---- |
 | **:00:00 to :02:30** | **1** | **1** |
 | **:02:30 to :05:00** | **2** |  |
