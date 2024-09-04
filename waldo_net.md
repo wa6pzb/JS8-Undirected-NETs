@@ -54,7 +54,7 @@ If you are WALDO it would be the same except for the comment and would just incl
 
 ``` @NET MSG F!10A GY17 WALDO ```
 
-In the last round or the conclusion round, we will use another **Simple FORM B** (we will call F!10B) to indicate if we found a WALDO and how many stations were heard (a number), and the comment will be the call sign of WALDO. If there were more than one WALDO, just report the first one you heard. It is possible to have more than one WALDO and no WALDO at all. You can also include in the comment a short salutation.
+In the last round or the conclusion round, we will use another form **Simple FORM B** (we will call F!10B) to indicate if we found a WALDO and how many stations were heard (a number), and the comment will be the call sign of WALDO. If there were more than one WALDO, just report the first one you heard. It is possible to have more than one WALDO and no WALDO at all. You can also include in the comment a short salutation.
 
 Below is a message sent to the call group @NET as an inbox message.
 
