@@ -1,0 +1,20 @@
+BBS WALL|F!BBS
+
+# Form created 11/18/2024.
+
+! BBS WALL POST FORM
+!! This is like a Bulletin Board System (BBS) post to a Wall
+. This form tells if you are available for a QSO and your current status
+. The Comment is a short note about what you are doing now
+
+? Available for QSO?
+@Y YES
+@N No
+
+? Overall Status?
+@G GREEN
+@Y YELLOW
+@R RED
+
+! Test End
+. testing at the end, no question associated
