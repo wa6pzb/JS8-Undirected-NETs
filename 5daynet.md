@@ -12,7 +12,7 @@
 * The current exchange can support 20 Net members
 * The Net members have to be pre-registered for the Net to report members heard
 * Members commitment each week is:
-  * run JS8call for at least 1 hours each day for 5 days
+  * run JS8call for at least 1 hour each day for 5 days
   * during the 1 hour period query the network for member forms
   * send your form to the Net
 
