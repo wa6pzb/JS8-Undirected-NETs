@@ -1,5 +1,8 @@
 # The 5 Day Net
 
+The 5 Day Net is a method of having a weekly net with a known group of participants without requiring a 'et Control Station (NCS).
+
+
 * The Net lasts 5 days with a 1 hour time slot each day (longer is better, 24x7 stations are the best)
 * Use a simple microform (e.g. @NET MSG F!NET YG WX HAS BEEN COLD }ZZZ #FFFF)
 * Use a group call (e.g @NET)
