@@ -15,4 +15,5 @@
   * run JS8call for at least 1 hour each day for 5 days
   * during the 1 hour period query the network for member forms
   * send your form to the Net
+  * have your form available to be queried by the net members
 
