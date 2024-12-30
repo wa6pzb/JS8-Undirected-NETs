@@ -1,6 +1,6 @@
 # The 5 Day Net
 
-* Net lasts 5 days with a 1 hour time slot each day (longer is better, 24x7 stations are the best$
+* Net lasts 5 days with a 1 hour time slot each day (longer is better, 24x7 stations is the best)
 * Use a simple microform (e.g. @NET MSG F!NET YG WX HAS BEEN COLD }ZZZ #FFFF)
 * Use a group call (e.g @NET)
 * Send form as MSG
