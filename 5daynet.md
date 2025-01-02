@@ -8,7 +8,7 @@ The 5 Day Net is a method of having a weekly net with a known group of participa
 * Use a group call (e.g @NET)
 * Send your form as MSG to the group call
 * Stage your form in the JS8Call Status field or use JS8Spotter
-* The form is static and ueef all week (5 days)
+* The form is static and id used all week (5 days)
 * Query Net member's forms by using STATUS? or use JS8Spotter query (e.g. @NET STATUS? and @NET E? F!NET)
 * At the end of the week during the two non-Net days the forms received are reviewed
 * The weekly microform will contain who was heard from the previous week
