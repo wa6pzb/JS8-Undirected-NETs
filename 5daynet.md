@@ -27,4 +27,5 @@ w6f 5
   * during the 1 hour period query the network for member forms
   * send your form to the Net
   * have your form available to be queried by the net members
+  * have auto responses turn off for at least 30 minutes each day so you can receive other members forms
 
