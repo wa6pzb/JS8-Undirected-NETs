@@ -2,8 +2,8 @@
 
 The 5 Day Net is a method of having a weekly net with a known group of participants without requiring a Net Control Station (NCS).
 
-w6a 2 disable auto, @net hears b,c,d,e,f 
-w6b 4 @net hears a,c,d,e,f 
+w6a 2 disable auto, @net hears b,c,d,e,f  
+w6b 4 @net hears a,c,d,e,f  
 w6c 1 
 w6d 3 
 w6e 6 
