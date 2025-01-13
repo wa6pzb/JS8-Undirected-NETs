@@ -1,6 +1,6 @@
 # The 5 Day Net
 
-The 5 Day Net is a method of having a weekly net with a known group of participants without requiring a Net Control Station (NCS).
+The 5 Day Net is a method of conducting a weekly net with a known group of participants without requiring a Net Control Station (NCS).
 Flip coin to determine your 10 min TX period and the period of the receive only auto response turned off. For example heads first half of the hour and tails the last half hour.
 So if you flipped heads you would do your TXing in that first half hour which take less that 10 minutes and the rest of that period have auto response turned off, and then for last half hour have auto response turned back on. 
 
