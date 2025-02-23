@@ -3,9 +3,7 @@
 The 5 Day Net is a method of conducting a weekly net with a known group of participants without requiring a Net Control Station (NCS).
 
 The Net runs Monday thru Friday, member will alternate between RX only days depending on whether they have a odd or even membership number.
-
-For example, heads for the first half of the hour and tails the last half of the hour.
-So if you flipped heads, you would do your TXing in that first half hour which take less that 10 minutes and the rest of that period have auto response turned off, and then for last half hour have auto response turned back on. 
+The Net group size is limited to 20.
 
 w6a 2 disable auto, @net hears b,c,d,e,f  
 w6b 4 @net hears a,c,d,e,f  
