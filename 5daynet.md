@@ -2,7 +2,7 @@
 
 The 5 Day Net is a method of conducting a weekly net with a known group of participants without requiring a Net Control Station (NCS).
 Flip a coin to determine which half of the hour will be your receive only period and which half will be when you will do a transmit session of approximately 5 minutes. That 5 minute period of the half hour will be determined by a single dice roll.
-
+The Net runs Monday thru Friday, member will alternate between RX only days depending on whether they have a odd or even membership number.
 
 For example, heads for the first half of the hour and tails the last half of the hour.
 So if you flipped heads, you would do your TXing in that first half hour which take less that 10 minutes and the rest of that period have auto response turned off, and then for last half hour have auto response turned back on. 
