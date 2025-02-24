@@ -6,11 +6,12 @@ The Net runs Monday thru Friday, member will alternate between RX only days depe
 The Net group size is limited to 20.
 
 ```mermaid
-  graph LR;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+  flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
 ```
 
 
