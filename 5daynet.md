@@ -9,7 +9,12 @@ The Net group size is limited to 20.
 flowchart LR
   A --> B
 ```
+The following code-block will be rendered as a Mermaid diagram:
 
+```mermaid
+flowchart LR
+  A --> B
+```
 
 
 w6a 2 disable auto, @net hears b,c,d,e,f  
