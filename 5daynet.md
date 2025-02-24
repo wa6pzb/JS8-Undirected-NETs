@@ -5,10 +5,12 @@ The 5 Day Net is a method of conducting a weekly net with a known group of parti
 The Net runs Monday thru Friday, member will alternate between RX only days depending on whether they have a odd or even membership number.
 The Net group size is limited to 20.
 
+
 ```mermaid
 flowchart LR
   A --> B
 ```
+
 
 
 w6a 2 disable auto, @net hears b,c,d,e,f  
