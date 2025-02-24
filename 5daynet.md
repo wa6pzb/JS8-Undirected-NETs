@@ -8,7 +8,7 @@ The Net group size is limited to 20.
 ```mermaid
 flowchart LR
   A --> B
-``\
+```
 
 
 w6a 2 disable auto, @net hears b,c,d,e,f  
