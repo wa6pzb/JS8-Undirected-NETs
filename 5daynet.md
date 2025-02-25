@@ -8,7 +8,7 @@ The Net group size is limited to 20.
 
 ```mermaid
 flowchart LR
-  A --> B
+  A --> B --> C
 ``` 
 
 
